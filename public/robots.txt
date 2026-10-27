@@ -1,0 +1,1 @@
+User-agent: *\nAllow: /\n\nSitemap: https://karicho-isaac.vercel.app/sitemap.xml\n
